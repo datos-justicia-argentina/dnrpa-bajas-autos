@@ -1,7 +1,7 @@
 DNRPA. Bajas de Autos
 =====================
 
-En este cuerpo de datos se detallan los datos de vehículos y primer titular de los automotores dados de baja definitivamente. El trámite de baja del automotor se realiza en los Registros Seccionales de la Propiedad del Automotor y Créditos Prendarios dependientes de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios. Se consideran automotores: automóviles, camiones, inclusive los llamados tractores para semirremolque, camionetas, rurales, jeeps, furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aun cuando no estuvieran carrozados.
+En este conjunto de datos se detallan los datos de vehículos y primer titular de los automotores dados de baja definitivamente. El trámite de baja del automotor se realiza en los Registros Seccionales de la Propiedad del Automotor y Créditos Prendarios dependientes de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios. Se consideran automotores: automóviles, camiones, inclusive los llamados tractores para semirremolque, camionetas, rurales, jeeps, furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aun cuando no estuvieran carrozados.
 
 http://datos.jus.gob.ar/dataset/bajas-de-autos
 
