@@ -33,7 +33,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** bajas de autos inscriptas desde el 01-01-2018 a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** bajas inscriptas en los Registros Seccionales de la Propiedad Automotor desde el 01-01-2018 a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -45,7 +45,7 @@ Recursos disponibles
 
     -   AUTOMOTOR - BAJA P/EXPORT. DEFINITIVA: baja del automotor por exportación definitiva
 
--   **tramite_fecha (date):** fecha del trámite en la cual se perfecciona el trámite. Formato AAAA-MM-DD
+-   **tramite_fecha (date):** fecha en la cual se perfecciona el trámite. Formato AAAA-MM-DD
 
 -   **fecha_inscripcion_inicial (date):** fecha de inscripción inicial. Formato AAAA-MM-DD
 
@@ -57,9 +57,11 @@ Recursos disponibles
 
 -   **automotor_origen (string):** corresponde al origen del vehículo. Puede tomar los valores I Importado, N Nacional o P Protocolo 21, que se rigen por los aranceles de los automotores nacionales pero se inscriben con el certificado de importación
 
+-   **automotor_anio_modelo (int):** año en que se fabricó el modelo del automotor
+
 -   **automotor_tipo_codigo (string):** código del tipo del automotor
 
--   **automotor_tipo_descripcion (string):** descripción del tipo del automotor. Puede tomar los valores sedán, pick-up, camión, semirremolque, todo terreno, minibús, etc
+-   **automotor_tipo_descripcion (string):** descripción del tipo del automotor. Puede tomar los valores sedán, pick-up, camión, semirremolque, todo terreno, minibús, etc.
 
 -   **automotor_marca_codigo (string):** código de la marca del automotor
 
@@ -101,7 +103,7 @@ Recursos disponibles
 
     -   No aplica (en caso de persona jurídica)
 
--   **titular_año_nacimiento (int):** sexo del primer titular declarado
+-   **titular_anio_nacimiento (int):** año de nacimiento del primer titular declarado
 
 -   **titular_pais_nacimiento (string):** país de nacimiento del primer titular declarado. En el caso de personas jurídicas toma el valor "No aplica"
 
