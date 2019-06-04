@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### DNRPA. Bajas de autos AAAA-MM
+### DNRPA. Bajas de autos - AAAAMM
 
--   **Nombre del archivo:** dnrpa-bajas-autos-AAAA-MM.csv
+-   **Nombre del archivo:** dnrpa-bajas-autos-AAAAMM.csv
 
 -   **Descripción del contenido:** se detallan las bajas inscriptas en los Registros Seccionales de la Propiedad Automotor en el mes MM del año AAAA
 
