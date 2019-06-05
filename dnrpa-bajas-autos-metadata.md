@@ -109,9 +109,9 @@ Recursos disponibles
 
 -   **titular_porcentaje_titularidad (int):** porcentaje de titularidad
 
--   **titular_domicilio_provincia_indec_id (string):** código de provincia del domicilio del primer titular declarado, según la codificación de provincia implementada por INDEC.
+-   **titular_domicilio_provincia_id (string):** código de provincia del domicilio del primer titular declarado, según la codificación de provincia implementada por INDEC. (hasta 05/2019 nombre campo titular_domicilio_provincia_indec_id)
 
--   **titular_pais_nacimiento_indec_id (string):** código de pais de nacimiento del primer titular declarado, según la codificación de pais implementada por INDEC.
+-   **titular_pais_nacimiento_id (string):** código de pais de nacimiento del primer titular declarado, según la codificación de pais implementada por INDEC. (hasta 05/2019 nombre campo titular_pais_nacimiento_indec_id)
 
 ### DNRPA. Bajas de autos - AAAA
 
