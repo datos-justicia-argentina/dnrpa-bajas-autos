@@ -1,7 +1,7 @@
 DNRPA. Bajas de Autos
 =====================
 
-En este conjunto de datos se detallan los datos de vehículos y primer titular de los automotores dados de baja definitivamente. El trámite de baja del automotor se realiza en los Registros Seccionales de la Propiedad del Automotor y Créditos Prendarios dependientes de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios. Se consideran automotores: automóviles, camiones, inclusive los llamados tractores para semirremolque, camionetas, rurales, jeeps, furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aun cuando no estuvieran carrozados.
+En este conjunto de datos se detallan los datos de vehículos y primer titular de los automotores dados de baja definitivamente. El trámite de baja del automotor se realiza en los Registros Seccionales de la Propiedad del Automotor y Créditos Prendarios dependientes de la Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios. Se consideran automotores: automóviles, camiones, inclusive los llamados tractores para semirremolque, camionetas, rurales, jeeps, furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aun cuando no estuvieran carrozados.
 
 http://datos.jus.gob.ar/dataset/bajas-de-autos
 
@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** autos, registración, registros seccionales, titulares, bajas, trámites, vehículos, automotores, DNRPA
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
-
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
+  
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
 
 -   **Grupo:** Sistema Registral
 
@@ -131,4 +131,4 @@ La actividad registral de los automotores está regulada por el Régimen Jurídi
 
 [Decreto 744/2004 – Reglamentación Ley Nº 25.761 - Desarmado de automotores y venta de sus autopartes](http://servicios.infoleg.gob.ar/infolegInternet/anexos/95000-99999/95763/norma.htm)
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 881 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-881-APN-MJ.pdf), del 14 de Noviembre de 2017.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 881 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2017-881-APN-MJ.pdf), del 14 de Noviembre de 2017.
